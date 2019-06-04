@@ -1,0 +1,5 @@
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Release\Musikdatenbankd.exe.config
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Release\Musikdatenbankd.Form1.resources
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Release\Musikdatenbankd.Form2.resources
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Release\Musikdatenbankd.Properties.Resources.resources
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Release\Musikdatenbankd.csproj.GenerateResource.Cache

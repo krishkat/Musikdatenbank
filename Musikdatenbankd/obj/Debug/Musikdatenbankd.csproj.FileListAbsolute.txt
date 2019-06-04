@@ -1,0 +1,77 @@
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe.config
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.pdb
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csprojResolveAssemblyReference.cache
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Properties.Resources.resources
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csproj.GenerateResource.Cache
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.exe
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.pdb
+E:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe.config
+E:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.exe
+E:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.pdb
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.JB.IO.IniFile.resources
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe.manifest
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.application
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.TrustInfo.xml
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.exe.manifest
+F:\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.application
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csprojResolveAssemblyReference.cache
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form2.resources
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csproj.GenerateResource.Cache
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form1.resources
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.FEinstellungen.resources
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.AboutBox1.resources
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form3.resources
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\de\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe.config
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe.manifest
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.application
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.exe
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbankd.pdb
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Properties.Resources.resources
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.TrustInfo.xml
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.exe.manifest
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.application
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.exe
+E:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.pdb
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csprojResolveAssemblyReference.cache
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.FEinstellungen.resources
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form1.resources
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form2.resources
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form3.resources
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csproj.GenerateResource.Cache
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbank.exe.config
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbank.exe
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbank.pdb
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.Properties.Resources.resources
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.exe
+D:\Daten\USB DISK\Programmieren\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.pdb
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbank.exe.config
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbank.exe
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\bin\Debug\Musikdatenbank.pdb
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.Form1.resources
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.Properties.Resources.resources
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csproj.GenerateResource.Cache
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.exe
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.pdb
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csproj.CoreCompileInputs.cache
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbank.AboutBox1.resources
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csprojAssemblyReference.cache
+D:\Daten\Programmierung\Musikdatenbankd\Musikdatenbankd\obj\Debug\Musikdatenbankd.csproj.CopyComplete
